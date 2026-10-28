@@ -3,5 +3,5 @@ Asteroids game made in a simplified version of Assembly for my Systems 1 course.
 # Controls:
 Press A to move left, D to move right and W to shoot laser
 # How to run:
-Paste the code on the Assembly emulator found here: https://github.com/drb0r1s/assembly-reality
+Paste the code on the Assembly simulator found here: https://github.com/drb0r1s/assembly-reality
 
